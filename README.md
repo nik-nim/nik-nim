@@ -11,7 +11,7 @@
   <a href="mailto:nikhilnim3@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://nikhilnim.netlify.app">
+  <a href="https://nik-nim.web.app/">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
   <!-- Update this with your actual LinkedIn username -->
