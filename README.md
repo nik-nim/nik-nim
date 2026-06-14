@@ -1,8 +1,3 @@
-<!-- Hero Banner -->
-
-<p align="center">
-  <img src="./banner.png" width="100%" alt="Nikhil Nim Banner"/>
-</p>
 
 <h1 align="center">
   Hi 👋 I'm Nikhil Nim
